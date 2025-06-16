@@ -5,7 +5,7 @@ from TAMANNA import app
 
 #--------------------------
 
-MUST_JOIN = "ll_P_U_L_lI"
+MUST_JOIN = "bots_update_all"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -27,7 +27,7 @@ async def must_join_channel(app: Client, msg: Message):
                         [
                             [
                                 InlineKeyboardButton("• ᴊᴏɪɴ •", url=link),
-                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/ll_P_U_L_lI"),
+                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/bots_update_all"),
                             ]
                         ]
                     )
