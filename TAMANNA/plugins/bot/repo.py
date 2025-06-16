@@ -13,7 +13,7 @@ start_txt = """**
  
 ❉ ᴘᴧʜʟє ᴘᴧᴘᴧ ʙσʟ ʀєᴘᴏ ᴏᴡηєʀ ᴋᴏ 
 
-✼ || [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) ||
+✼ || [zefron](https://t.me/crush_hu_tera) ||
  
 ❊ ʀᴜη 24x7 ʟᴧɢ ϝʀєє ᴡɪᴛʜσᴜᴛ sᴛσᴘ**
 """
@@ -25,14 +25,14 @@ start_txt = """**
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("✙ ᴧᴅᴅ ϻє вᴧʙʏ ✙", url=f"https://t.me/TAMANNA_MUSIC_BOT?startgroup=true")
+          InlineKeyboardButton("✙ ᴧᴅᴅ ϻє вᴧʙʏ ✙", url=f"https://t.me/batmann_MUSIC_BOT?startgroup=true")
         ],
         [
-          InlineKeyboardButton("• ʜєʟᴘ •", url="https://t.me/UFC_UPDATES"),
-          InlineKeyboardButton("• 𝛅ᴜᴘᴘσʀᴛ •", url="https://t.me/ll_P_U_L_lI"),
+          InlineKeyboardButton("• ʜєʟᴘ •", url="https://t.me/bots_update_all"),
+          InlineKeyboardButton("• 𝛅ᴜᴘᴘσʀᴛ •", url="https://t.me/bots_update_all"),
           ],
 [
-InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/TAMANNA_MUSIC_BOT"),
+InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/batmann_MUSIC_BOT"),
 
         ]]
     
