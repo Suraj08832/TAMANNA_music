@@ -1,4 +1,4 @@
-# MADE BY - ALPHA BABY
+# MADE BY - ZEFRON BABY
 
 class Helper(object):
     HELP_M = '''```
@@ -46,7 +46,7 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @TAMANNA_MUSIC_BOT @l_HEART_BEAT_l I love You 😘
+ єxᴧϻᴘʟє : @batmann_music_bot@crush_hu_tera I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
@@ -346,24 +346,24 @@ class Helper(object):
 ─────────────────────────
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+ ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє...
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [𝚻꯭ᴀᴍᴀᴎᴎᴀ ꭙ 𝚳꯭ᴜᴤᴉᴒ](https://t.me/l_HEART_BEAT_l)
+❍ ᴄσηᴛᴧᴄᴛ - [zefron](https://t.me/crush_hu_tera)
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ [𝚻꯭ᴀᴍᴀᴎᴎᴀ ꭙ 𝚳꯭ᴜᴤᴉᴒ](https://t.me/TAMANNA_MUSIC_BOT)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ [batman ꭙ 𝚳꯭ᴜᴤᴉᴒ](https://t.me/batmann_music_bot)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
-╭⎋ [𝚻꯭ᴀᴍᴀᴎᴎᴀ ꭙ 𝚳꯭ᴜᴤᴉᴒ](https://t.me/TAMANNA_MUSIC_BOT) : ᴧʟɪᴠє 
+╭⎋ [batman ꭙ 𝚳꯭ᴜᴤᴉᴒ](https://t.me/batmann_music_bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01    
 ─────────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/UFC_UPDATES)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/bots_update_all)
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 19 oct 2024
 ─────────────────────────
-❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [ᯓ🩺᪵‌‌˟‌ 𝆺𝅥⃝‌🫀꯭‌𝗛꯭𝆬𝆬‌𝜩‌𝚫‌𝗥꯭𝆬‌𝗧‌𝗕꯭‌𝜩‌𝚫‌𝗧꯭‌𝅹𝅹ﮩ᪵‌٨ـﮩ➛](https://t.me/l_HEART_BEAT_l)
+❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [ᯓ🩺᪵‌‌˟‌ 𝐣‌‌‌➥‌𝗭𝗲‌𝗳𝗿𝗼‌𝗻 ‌⃪🔥᪵᪳❰⎯꯭🎫ꭗ‌‌:](https://t.me/crush_hu_tera)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -378,9 +378,9 @@ class Helper(object):
 ● ᴇηᴊᴏʏ ғєєʟ ғʀєє ϻᴜsɪᴄ ᴡɪᴛʜ 𝐊ʀɪᴛɪ.
 ● ᴧᴅᴅ ϻє ηᴏᴡ ʙᴧʙʏ ɪɴ ʏᴏᴜʀ ɢʀσᴜᴘs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [𝚻꯭ᴀᴍᴀᴎᴎᴀ ꭙ 𝚳꯭ᴜᴤᴉᴒ](https://t.me/UFC_UPDATES)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [𝚻꯭ᴀᴍᴀᴎᴎᴀ-ᴜᴘᴅᴧᴛєs](https://t.me/ll_P_U_L_lI)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](https://t.me/TAMANNA_MUSIC_BOT?start=_tgr_fBSoVjdmODhl)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [batman ꭙ 𝚳꯭ᴜᴤᴉᴒ](https://t.me/bots_update_all)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [batman-ᴜᴘᴅᴧᴛєs](https://t.me/bots_update_all)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](https://t.me/batmann_music_bot?start=_tgr_fBSoVjdmODhl)
 ─────────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
    ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!!
